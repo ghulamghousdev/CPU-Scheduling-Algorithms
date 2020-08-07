@@ -5,15 +5,18 @@
 
 
 <br>
+
+## Implemented Algorithm <br>
+
 Implemented following CPU scheduling algorithms in C++ with same and different arrival time <br>
 <br>
-- First Come First Served
-- Shortest Job First
-- Round Robin
-- Priority Scheduling
-- Best Fit
-- First Fit
-- Bankers Algorithm
+- First Come First Served <br>
+- Shortest Job First <br>
+- Round Robin <br>
+- Priority Scheduling <br>
+- Best Fit <br>
+- First Fit <br>
+- Bankers Algorithm <br>
 
 <br>
 
