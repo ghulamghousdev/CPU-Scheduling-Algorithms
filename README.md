@@ -7,13 +7,13 @@
 <br>
 Implemented following CPU scheduling algorithms in C++ with same and different arrival time <br>
 <br>
-- First Come First Served<br>
-- Shortest Job First<br>
-- Round Robin<br>
-- Priority Scheduling<br>
-- Best Fit<br>
-- First Fit<br>
-- Bankers Algorithm<br>
+- First Come First Served
+- Shortest Job First
+- Round Robin
+- Priority Scheduling
+- Best Fit
+- First Fit
+- Bankers Algorithm
 
 <br>
 
@@ -51,18 +51,17 @@ assigned a priority. Process with highest priority is to be executed first and s
 first come first served basis.
 <br>
 
-## First Fit <br>
-
-It is an memory allocation algorithm to different processes. First Fit Algorithm is the simplest technique of allocating the
-memory block to the processes amongst all. In this algorithm, the pointer keeps track of all the free blocks in the memory 
-and accepts the request of allocating a memory block to the coming process
-<br>
-
 ## Best Fit <br>
 
 The best fit deals with allocating the smallest free partition which meets the requirement of the requesting process. 
 This algorithm first searches the entire list of free partitions and considers the smallest hole that is adequate. It then 
 tries to find a hole which is close to actual process size needed.
+<br>
+## First Fit <br>
+
+It is an memory allocation algorithm to different processes. First Fit Algorithm is the simplest technique of allocating the
+memory block to the processes amongst all. In this algorithm, the pointer keeps track of all the free blocks in the memory 
+and accepts the request of allocating a memory block to the coming process
 <br>
 
 ## Bankers Algorithm
